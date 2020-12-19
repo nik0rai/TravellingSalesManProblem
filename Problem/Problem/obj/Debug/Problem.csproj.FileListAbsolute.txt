@@ -1,0 +1,10 @@
+C:\Users\NikoRai\source\repos\Problem\Problem\bin\Debug\Problem.exe.config
+C:\Users\NikoRai\source\repos\Problem\Problem\bin\Debug\Problem.exe
+C:\Users\NikoRai\source\repos\Problem\Problem\bin\Debug\Problem.pdb
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.Form1.resources
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.Properties.Resources.resources
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.csproj.GenerateResource.cache
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.csproj.CoreCompileInputs.cache
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.exe
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.pdb
+C:\Users\NikoRai\source\repos\Problem\Problem\obj\Debug\Problem.csprojAssemblyReference.cache
